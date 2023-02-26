@@ -1,0 +1,8 @@
+*.o
+*.a
+threadx
+threadx.dis
+threadx.hex
+threadx.map
+threadx.srec
+System.map
